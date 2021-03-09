@@ -1,0 +1,27 @@
+.img1{
+    width:300px;
+    margin-left:10px;
+    background-color: white;
+    border: 1px solid lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: black solid 1px;
+    font-weight: bold;
+    color: black;
+    margin-bottom:35px;
+    margin-top: 20px;
+    box-shadow: 0.5px 0.5px 3px;
+    float: left;
+}
+
+
+.img1:hover {
+    border: 2px solid #777;
+  }
+.desc {
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 200%;
+  }
+  
